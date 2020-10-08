@@ -1,5 +1,5 @@
 # Linear Regression based on Gradient Descent
-This repository provides a sample MATLAB code in order to perform a supervised Machine Learning algorithm: Gradient Descent based on gradient descent. 
+This repository provides a sample MATLAB code in order to perform a supervised Machine Learning algorithm: Linear Regression based on gradient descent. 
 # Organization of the Repository
 The main MATLAB file is named "LinearRegressionGrdDsc.m" while the other MATLAB files are fuctions used in the main file. 
 You may feed the algorithm with whatever dataset you wish, no matter what the dimension is. However, two sets of input data are included as an example to implement the algorithm. Depending on the number of variables your dataset has, the algorithm may plot the input data, linear fit and cost fundtion. 
