@@ -2,7 +2,7 @@
 
 % My template Matlab codes for Linear Regression with multiple variables
 % Algorithm: Gradient Descent
-% LinearRegressionManualGrdDsc.m
+% LinearRegressionGrdDsc.m
 % Navid Salami Pargoo
 % 2020
 
